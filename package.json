@@ -1,7 +1,7 @@
 {
   "name": "array-buffer",
   "version": "1.0.0",
-  "description": "Netology homework: ArrayBuffer and Math (log/trig)",
+  "description": "Netology homework: ArrayBuffer",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
